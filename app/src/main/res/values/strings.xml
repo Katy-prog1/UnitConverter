@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="name_label">Polunin Ekaterina</string>
+    <string name="hint_enter_value">Enter number</string>
+    <string name="button_convert">Convert</string>
+    <string name="result_prefix">Result: </string>
+    <string-array name="operations_array">
+        <item>Centimeters → Meters</item>
+        <item>Meters → Kilometers</item>
+        <item>Celsius → Fahrenheit</item>
+        <item>Fahrenheit → Celsius</item>
+        <item>Grams → Kilograms</item>
+    </string-array>
+</resources>
